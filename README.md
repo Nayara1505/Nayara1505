@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World! Eu sou Nayara Medeiros</h1>
 
-<h3>🧑‍💻 Sobre Mim</h3>
+<h3>👧💻 Sobre Mim</h3>
 <p>
 Tenho 19 anos e sou estudante de <strong>Ciência da Computação</strong> (1º período) 
 e técnica em <strong>Desenvolvimento de Sistemas</strong>.  

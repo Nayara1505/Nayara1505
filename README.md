@@ -1,4 +1,4 @@
-<h1>👋 Hello World! Meu nome é Nayara Karla Medeiros da Silva</h1>
+<h1>👋 Hello World! Meu nome é Nayara Medeiros</h1>
 
 <h3>🧑‍💻 Sobre Mim</h3>
 <p>   Tenho 19 anos, sou estudante de <strong>Ciências da Computação</strong> (1° período) e técnica em <strong>Desenvolvimento de Sistemas</strong>. 
@@ -33,9 +33,9 @@
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="left">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nayara1505&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas3255&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayara1505&layout=compact&theme=radical)
 
 </div>
 

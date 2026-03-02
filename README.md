@@ -9,9 +9,9 @@
       - <strong>Linguagens:</strong> C Estruturado, HTML, CSS, JavaScript e PHP.<br>
       - <strong>Introdução à segurança da informação.</strong><br>
       - <strong>Introdução á Programação de Computadores.</strong><br>
-      - <strong>Fundamentos de redes de computadores.</strong></p>
+      - <strong>Fundamentos de redes de computadores.</strong></br>
       - <strong>Computação em Nuvem.</strong><br>
-      - <strong>Banco de dados.</strong></p>
+      - <strong>Banco de dados.</strong></br>
 
 <h3>🎯 Objetivo Profissional</h3>
 <p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário em TI</strong> para:<br>
